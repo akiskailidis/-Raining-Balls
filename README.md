@@ -49,5 +49,18 @@ A small Unity game where the player pilots a spaceship while avoiding falling pl
 
 This project is developed for educational or personal use. You may modify or extend it for your own projects.
 
+## Download the Full Unity Project
+
+You can download the complete Unity project as a ZIP file from Google Drive:
+
+**Standard Link**  
+[Download from Google Drive](https://drive.google.com/file/d/1_HxgFX0Nqj8L4SjK_aLlGKf2oHnZi5jQ/view?usp=sharing)
+
+**Direct Download Link**  
+[Click to Download (Direct)](https://drive.google.com/uc?export=download&id=1_HxgFX0Nqj8L4SjK_aLlGKf2oHnZi5jQ)
+
+> Note: If your browser blocks the direct link, right-click and choose “Open link in new tab” or use the standard link.
+
+
 
 
